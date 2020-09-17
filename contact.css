@@ -65,7 +65,11 @@
     height: 26px;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 600px) {
+    .contact-details {
+        width: 90%;
+        margin: 0 auto;
+    }
 
     .address {
         text-decoration: none;
@@ -75,6 +79,6 @@
         text-decoration: none;
         color: black;
         margin-left: 5px;
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 }
