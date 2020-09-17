@@ -1,0 +1,64 @@
+.services-page {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    margin-top: -1.55rem;
+    text-align: justify;
+}
+
+.services-header {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.services-image-container {
+    width: 100%;
+}
+
+.services-image {
+    width: 100%;
+}
+            
+        
+
+.services {
+    width: 75%;
+    margin: 0 auto;
+    max-width: 950px;
+}
+
+.service-summary-subheading {
+    margin: 1rem 0;
+}
+
+.bullet-points {
+    margin-left: 30px;
+}
+
+.bullet-point {
+    margin-bottom: 3px;
+}
+
+.service {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 0;
+}
+
+.service-title {
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+
+.service-title.main {
+    font-size: 1.75rem;
+}
+
+.service-summary {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 1rem;
+    font-weight: 200;
+}
+       
