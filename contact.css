@@ -40,7 +40,7 @@
 .form-of-contact-info {
     display: flex;
     align-items: center;
-    line-height: 27px;
+    line-height: 30px;
 }
 
 .detail {
@@ -53,4 +53,14 @@
     flex-direction: column;
     margin: 10px 0;
     line-height: 22px;
+}
+
+.phone-icon {
+    height: 26px;
+}
+.fax-icon {
+    height: 23px;
+}
+.mail-icon {
+    height: 26px;
 }
