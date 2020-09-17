@@ -75,6 +75,10 @@
         text-decoration: none;
     }
 
+    .address-info {
+        text-decoration: none;
+    }
+
     .detail {
         text-decoration: none;
         color: black;
